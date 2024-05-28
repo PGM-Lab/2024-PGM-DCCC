@@ -1,0 +1,4 @@
+bcause @ git+https://github.com/PGM-Lab/bcause@dev-czeros
+more-itertools==10.2.0
+python-sat==0.1.8.dev15
+numpy~=1.26
