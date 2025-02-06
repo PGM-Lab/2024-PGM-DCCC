@@ -1,4 +1,4 @@
-# Bounding Counterfactuals under Selection Bias
+# A Divide and Conquer Approach for Solving Structural Causal Models
 
 This bundle contains the manuscript submited to the PGM2024 and entitled  "A Divide and Conquer Approach for Solving Structural
 Causal Models".
